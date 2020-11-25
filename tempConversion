@@ -1,0 +1,2 @@
+#!/bin/bash -x
+read -p "enter the temperature" temp
